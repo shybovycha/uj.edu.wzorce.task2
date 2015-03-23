@@ -1,0 +1,6 @@
+/home/shybovycha/projects/uniwersytet/wzorce/task2/task2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/shybovycha/projects/uniwersytet/wzorce/task2/task2/bin/Debug/task2.exe.mdb
+/home/shybovycha/projects/uniwersytet/wzorce/task2/task2/bin/Debug/task2.exe
+/home/shybovycha/projects/uniwersytet/wzorce/task2/task2/obj/x86/Debug/task2.exe
+/home/shybovycha/projects/uniwersytet/wzorce/task2/task2/obj/x86/Debug/task2.exe.mdb
+/home/shybovycha/projects/uniwersytet/wzorce/task2/task2/bin/Debug/Newtonsoft.Json.dll
